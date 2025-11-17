@@ -1,7 +1,7 @@
 # VPC
 
-NAME: SELVARANI S
-REG NO : 212224040301
+ ## NAME: SELVARANI S
+ ## REG NO : 212224040301
 
 ## Aim:
 To set up of a Private Cloud  in AWS.
